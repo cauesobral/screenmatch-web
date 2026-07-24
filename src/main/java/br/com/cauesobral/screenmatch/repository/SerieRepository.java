@@ -1,8 +1,8 @@
-package br.com.alura.screenmatch.repository;
+package br.com.cauesobral.screenmatch.repository;
 
-import br.com.alura.screenmatch.model.Categoria;
-import br.com.alura.screenmatch.model.Episodio;
-import br.com.alura.screenmatch.model.Serie;
+import br.com.cauesobral.screenmatch.model.Categoria;
+import br.com.cauesobral.screenmatch.model.Episodio;
+import br.com.cauesobral.screenmatch.model.Serie;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

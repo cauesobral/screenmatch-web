@@ -1,9 +1,9 @@
-package br.com.alura.screenmatch.principal;
+package br.com.cauesobral.screenmatch.principal;
 
-import br.com.alura.screenmatch.model.*;
-import br.com.alura.screenmatch.repository.SerieRepository;
-import br.com.alura.screenmatch.service.ConsumoApi;
-import br.com.alura.screenmatch.service.ConverteDados;
+import br.com.cauesobral.screenmatch.model.*;
+import br.com.cauesobral.screenmatch.repository.SerieRepository;
+import br.com.cauesobral.screenmatch.service.ConsumoApi;
+import br.com.cauesobral.screenmatch.service.ConverteDados;
 
 import java.util.ArrayList;
 import java.util.Comparator;

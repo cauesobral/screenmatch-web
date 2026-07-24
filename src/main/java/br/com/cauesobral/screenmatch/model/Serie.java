@@ -1,6 +1,6 @@
-package br.com.alura.screenmatch.model;
+package br.com.cauesobral.screenmatch.model;
 
-import br.com.alura.screenmatch.service.ConsultaChatGPT;
+import br.com.cauesobral.screenmatch.service.ConsultaChatGPT;
 import jakarta.persistence.*;
 
 import java.util.ArrayList;
